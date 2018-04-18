@@ -1,4 +1,4 @@
-# Nuxt-Tailwind Starter
+# Nuxty Template - Nuxt & Buefy Starter
 
 A [Nuxt.js](https://github.com/nuxt/nuxt.js) starter project template using [Tailwind CSS](https://github.com/tailwindcss/tailwindcss) without the distraction of a complicated development environment.
 
@@ -11,7 +11,7 @@ Make sure to have `node 8.0+` and `npm 5.0+` installed
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ``` bash
-$ vue init sgraewe/nuxt-tailwind my-project
+$ vue init davidroyer/nuxty my-project
 $ cd my-project
 # install dependencies
 $ npm install # Or yarn install
